@@ -163,6 +163,9 @@ margin-left: 5.4%;
     .testomonial-item .imgbx {
         display: none;
     }
+    .reseller {
+        padding-bottom: 0px !important;
+    }
     
     
     
@@ -179,6 +182,8 @@ margin-left: 5.4%;
     }
     .need-hosting{
         background: #f1f6fb;
+        /* padding-bottom: 20px !important; */
+        padding-bottom: 72px !important;
     }
     .need-hosting-content{
         position: relative;
@@ -233,9 +238,13 @@ margin-left: 5.4%;
         font-size: 13px;
         letter-spacing: .4px;
     }
+    .icon-content {
+        width: 85%;
+        margin: auto;
+    }
     .need-hosting h1 {
-        font-size: 23px;
-        padding-bottom: 13px;
+        font-size: 26px;
+        padding-bottom: 32px;
         text-align: center;
     }
     .domain input[type="submit"] {
@@ -289,7 +298,7 @@ margin-left: 5.4%;
         color: #7c8ca4;
             }
             .hero {
-                min-height: 60vh;
+                min-height: 70vh;
             }
 
 
